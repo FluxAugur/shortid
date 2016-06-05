@@ -1,0 +1,29 @@
+{
+  "name": "shortid",
+  "description": "Amazingly short non-sequential url-friendly unique id generator.",
+  "main": "browser/shortid.js",
+  "author": {
+    "name": "Dylan Greene",
+    "email": "dylang@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "short",
+    "tiny",
+    "id",
+    "uuid",
+    "bitly",
+    "shorten",
+    "mongoid",
+    "shortid",
+    "tinyid"
+  ],
+  "homepage": "https://github.com/UzEE/shortid",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
