@@ -1,11 +1,12 @@
 {
-  "name": "shortid",
+  "name": "shortid-js",
   "description": "Amazingly short non-sequential url-friendly unique id generator.",
+  
   "main": "browser/shortid.js",
-  "author": {
-    "name": "Dylan Greene",
-    "email": "dylang@gmail.com"
-  },
+  "authors": [
+    { "name": "Dylan Greene", "email": "dylang@gmail.com" },
+    { "name": "Uzair Sajid", "email": "uzee@uzeeinc.net" }
+  ],
   "license": "MIT",
   "keywords": [
     "short",
@@ -21,6 +22,9 @@
   "homepage": "https://github.com/UzEE/shortid",
   "ignore": [
     "**/.*",
+    "templates",
+    "lib",
+    "examples",
     "node_modules",
     "bower_components",
     "test",
